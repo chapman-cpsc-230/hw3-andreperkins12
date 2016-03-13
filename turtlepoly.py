@@ -1,6 +1,7 @@
 import turtle
 
-
+### MAM: You did not sk the user for the number of sides and length of side, per the intructions.
+### Same problem in turtlestart1.py.
 
 # Now create a graphics window.
 t = turtle.Pen()
